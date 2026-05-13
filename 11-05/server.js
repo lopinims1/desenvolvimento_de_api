@@ -1,5 +1,5 @@
 import express from 'express';
-import router from './routes/fruitRoutes.js';
+import router from './src/routes/fruitRoutes.js';
 
 const app = express();
 const PORT = 3000;
